@@ -6,9 +6,9 @@ Repository of resources for Semester 2 of B. Math 1st Year students (2021-'22) a
 
 - [ ] [Analysis II](Analysis-2)
 - [ ] [Computer Science II (Numerical Computing)](Numerical-Computing)
-- [X] [Statistics I (Intro to Stat with R)](https://www.isibang.ac.in/~athreya/Teaching/ISCD)
+- [X] [Statistics I (Intro to Stat with R)](Statistics-1)
 - [ ] [Linear Algebra II](Linear-Algebra-2)
-- [X] [Probability II](https://sites.google.com/view/parthanilroy/home/teaching/probability-ii)
+- [X] [Probability II](Probability-2)
 
 ## How to Use?
 
