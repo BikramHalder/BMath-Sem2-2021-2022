@@ -1,4 +1,4 @@
-# Linear Algebra 2 Lectures
+# Linear Algebra II Lectures
 
 - Lecture 1
 - Lecture 2
