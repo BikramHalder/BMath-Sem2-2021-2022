@@ -1,0 +1,65 @@
+\documentclass[11pt]{article}
+%%%%%%%%%%%%%%%Setting Page Sizes %%%%%%%%%%%%
+\setlength{\parindent}{0in}
+\setlength{\parskip}{\baselineskip}
+\setlength{\textheight}{9in}
+\setlength{\textwidth}{6.3in}
+\setlength{\topmargin}{-0.6in}
+\setlength{\evensidemargin}{-.5in}
+\setlength{\oddsidemargin}{0in}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%To make R commands appear in different Color%%%%%%%%%%
+\usepackage{color}
+\usepackage{fancyvrb} % Verbatim
+\usepackage{Sweave} % for R code
+\usepackage{color}
+\definecolor{codecolor}{RGB}{114,12,112}
+\DefineVerbatimEnvironment{Sinput}{Verbatim}{formatcom=\color{codecolor}}
+\DefineVerbatimEnvironment{Soutput}{Verbatim}{formatcom=\color{codecolor}}
+\DefineVerbatimEnvironment{Scode}{Verbatim}{formatcom=\color{codecolor}}
+\DefineVerbatimEnvironment{Sin}{Verbatim}{formatcom=\color{codecolor}}
+\DefineVerbatimEnvironment{Sout}{Verbatim}{formatcom=\color{codecolor}}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\SweaveOpts{concordance=TRUE}
+
+
+{\bf NAME: } %%% ENTER YOUR NAME
+{\bf Homework: } %%% ENTER H.W. NUMBER
+
+%%BEGIN R INSTRUCTIONS WITH THE SYMBOL BELOW
+<<>>=
+#TYPE R COMMANDS with each Command on separate line
+
+@
+%%BELOW IS EXAMPLE
+
+{\bf Solution 1:}
+<<>>=
+kreading = c(65311, 65624, 65908, 66219, 66499, 66821, 67145, 67447)
+differences = diff(kreading)
+differences
+@
+
+The maximum difference is 324
+
+
+%%%%%%%%%%%%%%%%%%FOR PLOTS TO BE USED LATER
+
+
+<<fig=TRUE,echo=FALSE,height=4>>=
+  plot(differences)
+@ 
+
+
+\end{document}      
+
+
+
+
+
+
+
+
