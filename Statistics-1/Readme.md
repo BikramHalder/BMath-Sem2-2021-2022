@@ -18,7 +18,7 @@
 
 | Week | Lecture Video | Notes | References |
 | --- | --- | --- | --- |
-| 1 | [20/01/2022](https://youtu.be/kBSK7E_LGVM) | [Week 1](Lecture-Notes/week1.pdf) | <ul><li> [R: A language for Data Analysis and Graphics](https://www.stat.auckland.ac.nz/~ihaka/downloads/R-paper.pdf) <li>[On the Theory of Scales of Measurement by S. S. Stevens](References/steven.pdf)</ul>
+| 1 | [20/01/2022](https://youtu.be/30Y7KBcru48) | [Week 1](Lecture-Notes/week1.pdf) | <ul><li> [R: A language for Data Analysis and Graphics](https://www.stat.auckland.ac.nz/~ihaka/downloads/R-paper.pdf) <li>[On the Theory of Scales of Measurement by S. S. Stevens](References/steven.pdf)</ul>
 | 2 | 
 
    
