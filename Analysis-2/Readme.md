@@ -1,6 +1,7 @@
 # Analysis II
 
 ## References
+
 - T. M. Apostol: Mathematical Analysis
 - T. M. Apostol: Calculus
 - S. Dineen: Multivariate Calculus and Geometry
@@ -11,5 +12,7 @@
 - K. A. Ross: Elementary Analysis
 
 ## Lectures
-| Week | Lecture Video | Notes | References |
-| --- | --- | --- | --- |
+
+| Week | Lecture Video                             | Notes                                                                                                       |
+| ---- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 1    | <ul><li>[17/01/22]()<li>[24/01/22]()</ul> | <ul><li>[17/01/22](Lecture-Notes/Jan-17-Edited-1.pdf)<li>[24/01/22](Lecture-Notes/Jan-24-Original.pdf)</ul> |
