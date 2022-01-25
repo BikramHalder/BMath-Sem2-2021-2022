@@ -1,6 +1,7 @@
 # Linear Algebra II
 
 ## References
+
 - C. R. Rao: Linear Statistical Inference and its Applications
 - A. Ramachandra Rao and P. Bhimasankaram: Linear Algebra
 - K. Hoffman and R. Kunze: Linear Algebra
@@ -13,5 +14,7 @@
 - M. Artin: Algebra
 
 ## Lectures
-| Week | Lecture Video | Notes | References |
-| --- | --- | --- | --- |
+
+| Week | Lecture Video  | Notes                                            |
+| ---- | -------------- | ------------------------------------------------ |
+| 1    | [Lecture 1]() | [Permutations 1](Lecture-Notes/LinearAlgebraII-1.pdf) |
