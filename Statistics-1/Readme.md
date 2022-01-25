@@ -1,7 +1,5 @@
 # [Introduction to Statistics and Computation with Data](https://www.isibang.ac.in/~athreya/Teaching/ISCD/)
 
-
-
 ## References
 
 - [Stat Labs](https://www.stat.berkeley.edu/~statlabs/about.html): Mathematical Statistics Through Applications by Deborah Nolan and Terry P. Speed [[Data](https://www.stat.berkeley.edu/~statlabs/labs.html)]
@@ -11,14 +9,9 @@
 - Statistics: The Art and Science of Learning from Data by by Alan Agresti, Christine A. Franklin, Bernhard Klingenberg
 - Mathematical Statistics and Data Analysis by John A. Rice
 
-
-
-
 ## [Lectures](https://www.youtube.com/playlist?list=PLuar0zPypPO12bRpMggJmG_NCLaDyRcJL)
 
-| Week | Lecture Video | Notes | References | Homework |
-| --- | --- | --- | --- | --- |
-| 1 | [20/01/2022](https://youtu.be/30Y7KBcru48) | [Week 1](Lecture-Notes/week1.pdf) | <ul><li> [R: A language for Data Analysis and Graphics](https://www.stat.auckland.ac.nz/~ihaka/downloads/R-paper.pdf) <li>[On the Theory of Scales of Measurement by S. S. Stevens](References/steven.pdf)</ul> | [HW 1](HWs/ISCDhw1.pdf)
-| 2 | 
-
-   
+| Week | Lecture Video                              | Notes                             | References                                                                                                                                                                                                      | Homework                |
+| ---- | ------------------------------------------ | --------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| 1    | [20/01/2022](https://youtu.be/30Y7KBcru48) | [Week 1](Lecture-Notes/week1.pdf) | <ul><li> [R: A language for Data Analysis and Graphics](https://www.stat.auckland.ac.nz/~ihaka/downloads/R-paper.pdf) <li>[On the Theory of Scales of Measurement by S. S. Stevens](References/steven.pdf)</ul> | [HW 1](HWs/ISCDhw1.pdf) |
+| 2    |

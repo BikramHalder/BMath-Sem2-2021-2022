@@ -1,9 +1,7 @@
-#  [Probability II](https://sites.google.com/view/parthanilroy/home/teaching/probability-ii)
-
-
-
+# [Probability II](https://sites.google.com/view/parthanilroy/home/teaching/probability-ii)
 
 ## References
+
 - Sheldon Ross: A First Course in Probability (9th Edition)
 - W. Feller: Introduction to Probability: Theory and Applications - Vol. I and II
 - P. G. Hoel, S. C. Port and C. J. Stone: Introduction to Probability Theory
@@ -13,11 +11,9 @@
 - R. Meester: A Natural Introduction to Probability Theory
 - [Probability and Statistics with Examples using R](https://www.isibang.ac.in/~athreya/psweur) by [Siva Athreya](https://www.isibang.ac.in/~athreya), [Deepayan Sarkar](https://www.isid.ac.in/~deepayan/), and [Steve Tanner](https://www.eou.edu/math/math-faculty/)
 
-
-
 ## Lectures
-| Week | Lecture Video| Notes |
-| --- | --- | --- |
-| 1 | [20/01/2022](https://drive.google.com/file/d/1NXuWWAprf1hN117K867zn1lz3bccHeLT/view) | [Recap of discrete and continuous random variables, bivariate random vectors, joint cdf](Lecture-Notes/Lecture-01.pdf) |
 
-
+| Week | Lecture Video                                                                        | Notes                                                                                                                                                                                  |
+| ---- | ------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [20/01/2022](https://drive.google.com/file/d/1NXuWWAprf1hN117K867zn1lz3bccHeLT/view) | [Recap of discrete and continuous random variables, bivariate random vectors, joint cdf](Lecture-Notes/Lecture-01.pdf)                                                                 |
+| 2    | [25/01/2022](https://drive.google.com/file/d/1vo8vcBRDTwSdiSywJkASkqasKj209MvV/view) | [Characterizing properties of a joint cdf, discrete random vectors, joint pmf, examples based on Polya's urn scheme and a simple drainage network model](Lecture-Notes/Lecture-02.pdf) |
