@@ -17,4 +17,4 @@
 
 | Week | Lecture Video                               | Notes                                                                                                                       |
 | ---- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 1    | <ul><li>[Lecture 1]()<li>[Lecture 2]()</ul> | <ul><li>[Permutations 1](Lecture-Notes/LinearAlgebraII-1.pdf)<li>[Permutations 2](Lecture-Notes/LinearAlgebraII-2.pdf)</ul> |
+| 1    | <ul><li>[24/01/2022]()<li>[26/01/2022]()</ul> | <ul><li>[Permutations 1](Lecture-Notes/LinearAlgebraII-1.pdf)<li>[Permutations 2](Lecture-Notes/LinearAlgebraII-2.pdf)</ul> |
