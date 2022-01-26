@@ -15,6 +15,6 @@
 
 ## Lectures
 
-| Week | Lecture Video | Notes                                                 |
-| ---- | ------------- | ----------------------------------------------------- |
-| 1    | [Lecture 1]() | [Permutations 1](Lecture-Notes/LinearAlgebraII-1.pdf) |
+| Week | Lecture Video                               | Notes                                                                                                                       |
+| ---- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 1    | <ul><li>[Lecture 1]()<li>[Lecture 2]()</ul> | <ul><li>[Permutations 1](Lecture-Notes/LinearAlgebraII-1.pdf)<li>[Permutations 2](Lecture-Notes/LinearAlgebraII-2.pdf)</ul> |
