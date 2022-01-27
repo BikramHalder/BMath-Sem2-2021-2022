@@ -13,8 +13,8 @@
 - R. A. Horn and C. R. Johnson: Matrix Analysis
 - M. Artin: Algebra
 
-## Lectures
+## [Lectures](https://www.youtube.com/playlist?list=PLuar0zPypPO2MLmaLd36BEDXc4Ot9P0xg)
 
-| Week | Lecture Video                               | Notes                                                                                                                       |
-| ---- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 1    | <ul><li>[24/01/2022]()<li>[26/01/2022]()</ul> | <ul><li>[Permutations 1](Lecture-Notes/LinearAlgebraII-1.pdf)<li>[Permutations 2](Lecture-Notes/LinearAlgebraII-2.pdf)</ul> |
+| Week | Lecture Video                                                                                                                                                                                                                       | Notes                                                                                                                       |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 1    | <ul><li>[24/01/2022](https://www.youtube.com/watch?v=B713pN84QFo&list=PLuar0zPypPO2MLmaLd36BEDXc4Ot9P0xg&index=1)<li>[26/01/2022](https://www.youtube.com/watch?v=4QWhtgny_C0&list=PLuar0zPypPO2MLmaLd36BEDXc4Ot9P0xg&index=2)</ul> | <ul><li>[Permutations 1](Lecture-Notes/LinearAlgebraII-1.pdf)<li>[Permutations 2](Lecture-Notes/LinearAlgebraII-2.pdf)</ul> |
