@@ -5,7 +5,7 @@ Repository of resources for Semester 2 of B. Math 1st Year students (2021-'22) a
 ## Courses Available
 
 - [x] [Analysis II](Analysis-2)
-- [ ] [Computer Science II (Numerical Computing)](Numerical-Computing)
+- [x] [Computer Science II (Numerical Computing)](Numerical-Computing)
 - [x] [Statistics I (Intro to Stat with R)](Statistics-1)
 - [x] [Linear Algebra II](Linear-Algebra-2)
 - [x] [Probability II](Probability-2)

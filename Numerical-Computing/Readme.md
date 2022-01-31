@@ -1,6 +1,5 @@
 # Numerical Computing
 
-
 ## References
 
 - [Jesper Schmidt Hansen: GNU Octave](References/GNU_Octave_Beginners_Guide_by_Jesper_Schmidt_Hansen.pdf)
@@ -13,5 +12,7 @@
 - J. Ullman and W. Jennifer: A first course in database systems
 
 ## [Lectures]()
-| Week | Lecture Video | Notes | References |
-| --- | --- | --- | --- |
+
+| Week | Lecture Video  | Notes                                                           |
+| ---- | -------------- | --------------------------------------------------------------- |
+| 1    | [31/01/2022]() | [Lecture 1: Error Analysis](Lecture-Notes/Lecture_31012022.pdf) |
