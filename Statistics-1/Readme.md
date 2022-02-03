@@ -6,6 +6,7 @@
 - [simpleR – Using R for Introductory Statistics](References/Verzani-SimpleR.pdf)
 - [R for Data Science](https://r4ds.had.co.nz/) by [Hadley Wickham](https://hadley.nz/) and [Garlett Grolemund](https://scholar.google.com/citations?user=wgdI_m4AAAAJ&hl=en)
 - [Probability and Statistics with Examples using R](https://www.isibang.ac.in/~athreya/psweur) by [Siva Athreya](https://www.isibang.ac.in/~athreya), [Deepayan Sarkar](https://www.isid.ac.in/~deepayan/), and [Steve Tanner](https://www.eou.edu/math/math-faculty/)
+- [Using R for Introductory Statistics by John Verzani](References/Using-R-for-Introductory-Statistics-by-Verzani,John.pdf)
 - Statistics: The Art and Science of Learning from Data by by Alan Agresti, Christine A. Franklin, Bernhard Klingenberg
 - Mathematical Statistics and Data Analysis by John A. Rice
 
