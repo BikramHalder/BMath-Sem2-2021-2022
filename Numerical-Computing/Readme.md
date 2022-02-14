@@ -13,6 +13,8 @@
 
 ## [Lectures]()
 
-| Week | Lecture Video  | Notes                                                           |
-| ---- | -------------- | --------------------------------------------------------------- |
-| 1    | [31/01/2022]() | [Lecture 1: Error Analysis](Lecture-Notes/Lecture_31012022.pdf) |
+| Week | Lecture Video                                    | Notes                                                                                                                                                 |
+| ---- | ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | <ul><li> [31/01/2022]() <li>[04/02/2022]() </ul> | <ul><li>[Lecture 1: Error Analysis](Lecture-Notes/Lecture_31012022.pdf) <li> [Lecture 2: Error Propagation](Lecture-Notes/Lecture_04022022.pdf) </ul> |
+| 2    | <ul><li> [07/02/2022]() <li>[11/02/2022]() </ul> | <ul><li>[Lecture 3: Jacobian](Lecture-Notes/Lecture_31012022.pdf) <li>[Lecture 4: More on Jacobian](Lecture-Notes/Lecture_11022022.pdf) </ul>         |
+| 3    | <ul><li>[14/02/2022]() <li> </ul>                | <ul><li>[Lecture 5: Linear Algebra](Lecture-Notes/Lecture_31012022.pdf) <li> </ul>                                                                    |
